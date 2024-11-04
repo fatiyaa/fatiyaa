@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+<figure><embed src="https://wakatime.com/share/@5de65ce8-f67d-4cc8-8477-54db2d7a91ac/6c7a1813-98b1-4aa2-8bf6-4a77d86c35a6.svg"></embed></figure>
 <!--
 **fatiyaa/fatiyaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
